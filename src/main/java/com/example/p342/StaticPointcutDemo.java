@@ -9,7 +9,6 @@ import org.springframework.aop.Pointcut;
 import org.springframework.aop.framework.ProxyFactory;
 import org.springframework.aop.support.DefaultPointcutAdvisor;
 
-import javax.swing.*;
 
 public class StaticPointcutDemo {
     public static void main(String[] args) {
